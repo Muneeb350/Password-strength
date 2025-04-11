@@ -2,7 +2,7 @@ import streamlit as st
 import re
 
 
-st.set_page_config(page_title="Secure Password Evaluator", page_icon="🔒")
+st.set_page_config(page_title="Secure Password Evaluator", page_icon="🔒", layout="wide")
 
 st.title("🔐 Secure Password Evaluator")
 st.markdown(""" 
